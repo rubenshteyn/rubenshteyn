@@ -4,7 +4,7 @@
 - 🐱 I’m currently working on [AnyFriendly](https://github.com/rubenshteyn/any-friendly-mern) - this is a pet finder app  
   
 
-- 📚 I’m currently learning React, Mongo, Express  
+- 📚 I’m currently learning React 
   
 
 - 💻 I know how to work with the machine deep enough(promises, objects, classes and etc)  
