@@ -1,31 +1,8 @@
 ### <div align="center">Greetings! My name is Ilya, I'm a JS-developer.</div>  
-  
-
-- 🐱 I’m currently working on [AnyFriendly](https://github.com/rubenshteyn/any-friendly-mern) - this is a pet finder app  
-  
-
-- 📚 I’m currently learning React 
-  
-
-- 💻 I know how to work with the machine deep enough(promises, objects, classes and etc)  
-  
-
-- ❤️ Fact: I love what I do  
-  
-
-- 💀 No impostor syndrome  
-  
-
-- 👋 I am excellent at communication  
-  
-
 <br/>  
 
-
-## My Skill Set  
+## MY SKILLS  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
