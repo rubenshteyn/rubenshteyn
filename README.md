@@ -1,6 +1,5 @@
 ### <div align="center">I'm a FRONTEND-DEV | JS-DEV | FULLSTACK-DEV</div>  
 <br/>  
-### MY SKILLS  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
