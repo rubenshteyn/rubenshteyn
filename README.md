@@ -1,4 +1,4 @@
-### <div align="center">Greetings! My name is Ilya, I'm a FRONTEND-DEV | JS-DEV | FULLSTACK-DEV</div>  
+### <div align="center">I'm a FRONTEND-DEV | JS-DEV | FULLSTACK-DEV</div>  
 <br/>  
 ## MY SKILLS  
 <table><tr><td valign="top" width="33%">
