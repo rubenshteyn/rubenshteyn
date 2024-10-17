@@ -1,4 +1,4 @@
-### <div align="center">I'm a FRONTEND-DEV | JS-DEV | FULLSTACK-DEV</div>  
+### <div align="center">I'm a GOLANG-DEV | FULLSTACK-DEV</div>  
 <br/>  
 <table><tr><td valign="top" width="33%">
 
@@ -23,6 +23,7 @@
 
 ### Backend  
 <div align="center">  
+<a href="https://go.dev" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Go" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
