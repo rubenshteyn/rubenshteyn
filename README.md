@@ -1,4 +1,4 @@
-### <div align="center">I'm a GOLANG-DEV | FULLSTACK-DEV</div>  
+### <div align="center">I'm a FULLSTACK-DEV</div>  
 <br/>  
 <table><tr><td valign="top" width="33%">
 
